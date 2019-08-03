@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>猪头王的个人网站</title>
-    <link>https://ck2w.github.io/</link>
-    <description>Recent content on 猪头王的个人网站</description>
+    <title>Posts on 猪头王的个人网站</title>
+    <link>https://ck2w.github.io/post/</link>
+    <description>Recent content in Posts on 猪头王的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Aug 2019 22:21:20 +0800</lastBuildDate>
     
-	<atom:link href="https://ck2w.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ck2w.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://ck2w.github.io/post/first/</guid>
       <description> 王琳琳是小猪 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ck2w.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ck2w.github.io/about/</guid>
-      <description> biaoti title: &amp;ldquo;About&amp;rdquo; date: 2019-08-03T22:19:35+08:00
-draft: false </description>
     </item>
     
   </channel>
