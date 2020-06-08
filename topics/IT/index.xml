@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT on Quant Farming</title>
@@ -6,10 +6,20 @@
     <description>Recent content in IT on Quant Farming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2019 22:21:20 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 23:21:20 +0800</lastBuildDate>
     
 	<atom:link href="https://ck2w.github.io/topics/IT/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第二篇文章</title>
+      <link>https://ck2w.github.io/post/second/</link>
+      <pubDate>Sat, 03 Aug 2019 23:21:20 +0800</pubDate>
+      
+      <guid>https://ck2w.github.io/post/second/</guid>
+      <description>&lt;h2 id=&#34;测试一下&#34;&gt;测试一下&lt;/h2&gt;
+&lt;p&gt;let&amp;rsquo;s roll!移动卡开热点好卡移动套餐送了流量不限量套餐体验，流量使用终于没有顾忌的任性用了。然而手机开热点给笔记本或者别的手机用的时候却奇慢无比！！！移动卡如果是无限流量套餐，开热点却很慢。打电话给客服确认， 客服表示，无限流量套餐只保证本机使用的质量，不保证开热点后别的机器的连接网速。法，有时候笔记本确实要连手机使用，网上搜了搜，找到了临时的解决办法。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>第一篇文章</title>
